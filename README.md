@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NotALakeLurk
-- 👀 I’m interested in ... Finding ways to use my own code in everyday life.
-- 🌱 I’m currently learning ... Teaching myself JavaScript
+- 👀 I’m interested in ... Developing code for games and websites.
+- 🌱 I’m currently learning ... c#, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
-- 📫 How to reach me ... You can reach me at TheRedCoat787@gmail.com
+- 📫 How to reach me ... You can reach me at TheRedCoat787@Gmail.com
 
 <!---
 NotALakeLurk/NotALakeLurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
