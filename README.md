@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotALakeLurk
 - 👀 I’m interested in ... Developing code for games and websites.
-- 🌱 I’m currently learning ... c#, python, web development (html, css, js, php)
+- 🌱 I’m currently learning ... C#, Python, web development (html, css, js)
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
 - 📫 How to reach me ... You can reach me at TheRedCoat787@Gmail.com
 
