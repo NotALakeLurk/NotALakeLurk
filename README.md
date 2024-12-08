@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... functional programming, the lower level side of code
 - 🌱 I’m currently learning ... C, Rust
 - 💞️ I’m looking to collaborate on ... Any ideas?
-- 📫 How to reach me ... You can reach me at TheRedCoat787@Gmail.com
 
 <!---
 NotALakeLurk/NotALakeLurk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
